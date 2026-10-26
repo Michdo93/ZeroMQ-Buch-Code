@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package smarthome;
+
+// One measurement of a room sensor
+message SensorReading {
+  uint32 sensor_id   = 1;
+  double timestamp   = 2;
+  float  temperature = 3;
+  float  humidity    = 4;
+  float  battery     = 5;
+  string room        = 6;
+}

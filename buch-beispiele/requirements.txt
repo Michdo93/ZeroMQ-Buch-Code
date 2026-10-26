@@ -1,0 +1,6 @@
+pyzmq>=25
+numpy
+msgpack
+protobuf
+grpcio-tools
+paho-mqtt>=2.0

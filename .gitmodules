@@ -1,0 +1,33 @@
+[submodule "repos/Python-Concurrency-Patterns"]
+	path = repos/Python-Concurrency-Patterns
+	url = https://github.com/Michdo93/Python-Concurrency-Patterns
+[submodule "repos/ZeroMQ-Advanced-Examples"]
+	path = repos/ZeroMQ-Advanced-Examples
+	url = https://github.com/Michdo93/ZeroMQ-Advanced-Examples
+[submodule "repos/ZeroMQ-Camera-Control"]
+	path = repos/ZeroMQ-Camera-Control
+	url = https://github.com/Michdo93/ZeroMQ-Camera-Control
+[submodule "repos/ZeroMQ-Concurrency-Patterns"]
+	path = repos/ZeroMQ-Concurrency-Patterns
+	url = https://github.com/Michdo93/ZeroMQ-Concurrency-Patterns
+[submodule "repos/ZeroMQ-Cross-Language-CPP-Python"]
+	path = repos/ZeroMQ-Cross-Language-CPP-Python
+	url = https://github.com/Michdo93/ZeroMQ-Cross-Language-CPP-Python
+[submodule "repos/ZeroMQ-Examples"]
+	path = repos/ZeroMQ-Examples
+	url = https://github.com/Michdo93/ZeroMQ-Examples
+[submodule "repos/ZeroMQ-Kinect-v1-Xbox-360"]
+	path = repos/ZeroMQ-Kinect-v1-Xbox-360
+	url = https://github.com/Michdo93/ZeroMQ-Kinect-v1-Xbox-360
+[submodule "repos/ZeroMQ-Leap-Motion-LM-010"]
+	path = repos/ZeroMQ-Leap-Motion-LM-010
+	url = https://github.com/Michdo93/ZeroMQ-Leap-Motion-LM-010
+[submodule "repos/ZeroMQ-OOP-Patterns"]
+	path = repos/ZeroMQ-OOP-Patterns
+	url = https://github.com/Michdo93/ZeroMQ-OOP-Patterns
+[submodule "repos/ZeroMQ-Task-Pipeline"]
+	path = repos/ZeroMQ-Task-Pipeline
+	url = https://github.com/Michdo93/ZeroMQ-Task-Pipeline
+[submodule "repos/ZeroMQ-Walkie-Talkie"]
+	path = repos/ZeroMQ-Walkie-Talkie
+	url = https://github.com/Michdo93/ZeroMQ-Walkie-Talkie
